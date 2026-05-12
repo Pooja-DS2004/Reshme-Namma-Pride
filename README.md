@@ -1,4 +1,4 @@
-# Reshme-Namma-Pride
+# Reshme-Namma-Pride (Agriculture)
 
 _Detailed Description_
 Reshme-Namma is a "Sericulture Guard." It is a digital supervisor for the silkworm rearing house. The farmer enters the temperature and humidity 3 times a day. The app analyzes these against the "Ideal Growth Curve" for that specific stage of the silkworm (Instar) and gives instant advice on whether to increase ventilation or spray water.
@@ -35,6 +35,7 @@ _Output_
 <img width="1080" height="2400" alt="Screenshot_20260430_132340" src="https://github.com/user-attachments/assets/48ec8fd3-98fa-4871-a8b2-fb4c31c60cb5" />
 <img width="1080" height="2400" alt="Screenshot_20260430_134635" src="https://github.com/user-attachments/assets/f9282f9e-7937-4b08-8113-3bd532dec022" />
 
+Developed in Android Studio
 
 
 
